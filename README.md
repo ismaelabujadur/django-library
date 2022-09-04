@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/nowrie141/django_library">
+  <a href="https://github.com/ismaelabujadur/django-library">
     <img src="images/logo.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -26,14 +26,14 @@
   <p align="center">
     An awesome Library project to learn Django and web deployment!
     <br />
-    <a href="https://github.com/nowrie141/django_library"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ismaelabujadur/django-library"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://django--library.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/nowrie141/django_library/issues">Report Bug</a>
+    <a href="https://github.com/ismaelabujadur/django-library/issues">Report Bug</a>
     ·
-    <a href="https://github.com/nowrie141/django_library/issues">Request Feature</a>
+    <a href="https://github.com/ismaelabujadur/django-library/issues">Request Feature</a>
   </p>
 </p>
 
@@ -41,9 +41,10 @@
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-- [What did I learn?](#what-did-i-learn-?)
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built and Deployed With](#built-and-deployed-with)
+- [What did I learn?](#what-did-i-learn)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -112,19 +113,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ismael Abu-jadur Garcia - [@abujadur](https://twitter.com/abujadur) - ismaelabujadur@gmail.com
 
-Project Link: [https://github.com/nowrie141/django_library](https://github.com/nowrie141/django_library)
+Project Link: [https://github.com/ismaelabujadur/django-library](https://github.com/ismaelabujadur/django-library)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/nowrie141/django_library?style=flat-square
-[contributors-url]: https://github.com/nowrie141/django_library/graphs/contributors
+[contributors-url]: https://github.com/ismaelabujadur/django-library/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/nowrie141/django_library.svg?style=flat-square
-[forks-url]: https://github.com/nowrie141/django_library/network/members
+[forks-url]: https://github.com/ismaelabujadur/django-library/network/members
 [stars-shield]: https://img.shields.io/github/stars/nowrie141/django_library.svg?style=flat-square
-[stars-url]: https://github.com/nowrie141/django_library/stargazers
+[stars-url]: https://github.com/ismaelabujadur/django-library/stargazers
 [issues-shield]: https://img.shields.io/github/issues/nowrie141/django_library.svg?style=flat-square
-[issues-url]: https://github.com/nowrie141/django_library/issues
+[issues-url]: https://github.com/ismaelabujadur/django-library/issues
 [license-shield]: https://img.shields.io/github/license/nowrie141/django_library.svg?style=flat-square
-[license-url]: https://github.com/nowrie141/django_library/blob/master/LICENSE.txt
+[license-url]: https://github.com/ismaelabujadur/django-library/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ismael-abu-jadur-garcía-809154a6
